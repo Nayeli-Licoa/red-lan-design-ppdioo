@@ -69,17 +69,20 @@ Firewall perimetral, redundancia de enlaces (HSRP/VRRP), switch multicapa, ACLs 
 
 ## Capturas del proyecto
 
-### Topología lógica
+### Diagrama Preliminar de Red (Estado Inicial)
+![Diagrama preliminar de red](docs/images/Diagrama-preliminar-de-red.png)
 
-![Topología lógica](topologia-logica.png)
+### Topología Lógica Propuesta
+![Diseño lógico propuesto](docs/images/Diseño-lógico-propuesto.png)
 
-### Topología física propuesta
+### Topología Física Propuesta
+![Diseño físico propuesto](docs/images/diseno-fisico-propuesto.png)
 
-![Topología física propuesta](topologia-fisica.png)
+### Cronograma de Implementación
+![Diagrama de Gantt propuesto](docs/images/gantt-plan-propuesto.png)
 
-### Visita de campo
-
-![Visita al Cuerpo de Bomberos](visita-campo.jpg)
+### Visita de Campo
+![Visita al Cuerpo de Bomberos](docs/images/visita-sitio-bomberos.jpg)
 
 ##  Aprendizajes
 
