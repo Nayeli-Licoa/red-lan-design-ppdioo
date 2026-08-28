@@ -10,7 +10,7 @@ Proyecto académico de la materia **Diseño de Red** en la Universidad de Guayaq
 
 ## Equipo del Proyecto y Rol Individual
 
-Proyecto grupal (5 integrantes) desarrollado en la materia **Diseño de Red**, Universidad de Guayaquil.
+Proyecto grupal compuesto por 5 integrantes.
 
 ### Mi responsabilidad específica en el proyecto:
 - **Selección y justificación técnica de dispositivos (Fase Design):** evaluación e integración de routers Cisco 2911 (principal) y Cisco 2811 (interno), switch Cisco 2960-24TT, y terminales VoIP (teléfonos IP Cisco 7960 y radios base Home-VoIP).
