@@ -67,6 +67,20 @@ Firewall perimetral, redundancia de enlaces (HSRP/VRRP), switch multicapa, ACLs 
 - Esquema de direccionamiento IP y tabla de VLANs
 - Plan estimado de implementación con cronograma (diagrama de Gantt)
 
+## Capturas del proyecto
+
+### Topología lógica
+
+![Topología lógica](topologia-logica.png)
+
+### Topología física propuesta
+
+![Topología física propuesta](topologia-fisica.png)
+
+### Visita de campo
+
+![Visita al Cuerpo de Bomberos](visita-campo.jpg)
+
 ##  Aprendizajes
 
 Aplicar una metodología formal de diseño de redes (PPDIOO) de principio a fin, levantar requisitos reales en una institución, diseñar segmentación con VLANs y direccionamiento IP, y resolver problemas de configuración concretos en una simulación hasta lograr su correcto funcionamiento.
