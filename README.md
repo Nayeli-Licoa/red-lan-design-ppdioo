@@ -52,7 +52,8 @@ Proyecto grupal (5 integrantes) desarrollado en la materia **Diseño de Red**, U
 - **Capa 3:** subinterfaces `dot1Q`, enrutamiento estático, servidor DHCP por pool de VLAN.
 
 ### 4️⃣ Fase Implement (Implementar)
-Plan de instalación estructurado en 6 etapas: preparación del entorno, instalación física de dispositivos, cableado y energización, configuración de infraestructura, pruebas de conectividad y documentación final. Cronograma estimado: 4 a 6 semanas.
+
+Debido a que el alcance del proyecto fue de carácter académico y de simulación en Cisco Packet Tracer, la fase de implementación se estructuró como una **propuesta técnica teórica**, sin despliegue físico real. El plan documentado cubre 6 etapas: preparación del entorno, instalación física de dispositivos, cableado y energización, configuración de infraestructura, pruebas de conectividad y documentación final, proyectado a un tiempo estimado de **4 a 6 semanas**.
 
 ---
 
@@ -64,7 +65,7 @@ Firewall perimetral, redundancia de enlaces (HSRP/VRRP), switch multicapa, ACLs 
 
 - Capturas del diseño lógico y físico de la red (Cisco Packet Tracer)
 - Esquema de direccionamiento IP y tabla de VLANs
-- Diagrama de planificación (Gantt) del plan de implementación
+- Plan estimado de implementación con cronograma (diagrama de Gantt)
 
 ##  Aprendizajes
 
