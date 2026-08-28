@@ -53,7 +53,7 @@ Proyecto grupal (5 integrantes) desarrollado en la materia **Diseño de Red**, U
 
 ### 4️⃣ Fase Implement (Implementar)
 
-Debido a que el alcance del proyecto fue de carácter académico y de simulación en Cisco Packet Tracer, la fase de implementación se estructuró como una **propuesta técnica teórica**, sin despliegue físico real. El plan documentado cubre 6 etapas: preparación del entorno, instalación física de dispositivos, cableado y energización, configuración de infraestructura, pruebas de conectividad y documentación final, proyectado a un tiempo estimado de **4 a 6 semanas**.
+Debido a que el alcance del proyecto fue de carácter académico y de simulación en Cisco Packet Tracer, la fase de implementación se estructuró como una **propuesta técnica teórica**, sin desplieguefísico real. El plan documentado cubre 6 etapas: preparación del entorno, instalación física de dispositivos, cableado y energización, configuración de infraestructura, pruebas de conectividad y documentación final, proyectado a un tiempo estimado de **4 a 6 semanas**.
 
 ---
 
